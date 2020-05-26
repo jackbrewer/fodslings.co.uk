@@ -1,0 +1,12 @@
+.header {
+  background-color: $color-common-grey25;
+  background-image: url('/assets/image/background.jpg');
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.header__logo {
+  transform: translateY(32px);
+  max-width: spacing(30);
+  margin-top: spacing(-8);
+}

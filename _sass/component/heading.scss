@@ -1,0 +1,10 @@
+.heading {
+  font-family: $font-heading;
+  font-size: spacing(6);
+  color: $color-primary;
+}
+
+.heading--primary {
+  text-align: center;
+  margin-bottom: spacing(4);
+}

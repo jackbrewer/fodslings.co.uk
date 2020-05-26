@@ -1,0 +1,11 @@
+.container {
+  max-width: spacing(150);
+  margin: 0 auto;
+
+  padding-left: spacing(2);
+  padding-right: spacing(2);
+}
+
+.container--narrow {
+  max-width: spacing(80);
+}

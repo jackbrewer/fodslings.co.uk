@@ -1,0 +1,28 @@
+.main-nav {
+  background-color: $color-common-grey05;
+  padding: spacing(0.5) 0;
+}
+
+.main-nav__list {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.main-nav__item {
+  display: inline-block;
+}
+
+.main-nav__link {
+  display: block;
+  padding: spacing(1) spacing(2);
+  color: $color-common-white;
+  text-decoration: none;
+  border-radius: $radius-standard;
+  transition: background-color $duration-standard $easing-standard;
+
+  &:hover,
+  &:focus {
+    text-decoration: $duration-shortest;
+    background-color: $color-common-grey25;
+  }
+}
