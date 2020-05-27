@@ -17,6 +17,7 @@
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 20%);
     height: spacing(3);
     background-color: $color-secondary;
+    opacity: 0.8;
   }
 
   &::after {
