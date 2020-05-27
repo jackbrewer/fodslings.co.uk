@@ -5,6 +5,20 @@
 }
 
 .heading--primary {
+  position: relative;
   text-align: center;
-  margin-bottom: spacing(4);
+  margin-bottom: spacing(6);
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 180px;
+    height: 5px;
+    background-image: url('/assets/image/line.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
 }

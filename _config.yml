@@ -19,19 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Forest of Dean Slings
-email: hello@fodslings.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Supporting parents in the Forest of Dean area to use baby carriers and slings
   comfortably and safely.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:
-
-# Build settings
-# theme: minima
-# plugins:
-#   - jekyll-feed
+url: "https://fodslings.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 sass:
   sass_dir: _sass

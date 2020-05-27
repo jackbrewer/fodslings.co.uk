@@ -1,16 +1,27 @@
 .footer {
+  position: relative;
+  z-index: 1;
   background-color: $color-common-grey05;
   color: $color-common-white;
   font-size: spacing(1.5);
+  padding: spacing(1) 0;
+
+  &::before {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translate(-50%, 3px);
+    height: 85px * 0.5;
+    width: 80px  * 0.5;
+    background-image: url('/assets/image/fern.svg');
+    background-repeat: no-repeat;
+  }
 
   .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-    > * {
-      flex-basis: 33%;
-    }
   }
 }
 
@@ -22,17 +33,11 @@
 
 .footer__link {
   display: block;
-  color: $color-common-white;
+  color: $color-common-grey75;
   padding: spacing(1);
-}
-
-.footer__logo {
-  margin-top: spacing(-2);
-  transform: translateY(-8px);
-  max-width: spacing(8);
-  text-align: center;
 }
 
 .footer__terms {
   text-align: right;
+  color: $color-common-grey75;
 }

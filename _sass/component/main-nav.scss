@@ -1,6 +1,6 @@
 .main-nav {
   background-color: $color-common-grey05;
-  padding: spacing(0.5) 0;
+  padding: spacing(0.5) 0 0;
 }
 
 .main-nav__list {
@@ -23,6 +23,6 @@
   &:hover,
   &:focus {
     text-decoration: $duration-shortest;
-    background-color: $color-common-grey25;
+    background-color: $color-secondary;
   }
 }

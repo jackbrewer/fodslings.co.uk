@@ -1,15 +1,4 @@
 .prose {
-  // // Unset common styles left in place by WYSIWYG editor
-  // $prose-overrides: 'box-sizing', 'color', 'font-family', 'font-size',
-  //   'font-style', 'font-weight', 'line-height', 'margin', 'padding',
-  //   'text-decoration', 'white-space';
-
-  // @each $property in $prose-overrides {
-  //   [style*='#{$property}'] {
-  //     #{$property}: inherit !important;
-  //   }
-  // }
-
   > * + * {
     margin-top: spacing(2);
   }
@@ -62,12 +51,23 @@
 
   li {
     list-style-position: outside;
-    margin-left: spacing(4);
+    padding-left: spacing(4);
   }
 
   ul {
     li {
-      list-style-type: disc;
+      list-style-type: none;
+      background-repeat: no-repeat;
+      background-position: 8px 8px;
+      background-size: 10px 10px;
+      background-image: url('/assets/image/dot-01.svg');
+
+      &:nth-child(3n + 2) {
+        background-image: url('/assets/image/dot-02.svg');
+      }
+      &:nth-child(3n + 3) {
+        background-image: url('/assets/image/dot-03.svg');
+      }
 
       li {
         list-style-type: circle;

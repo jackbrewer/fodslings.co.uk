@@ -1,0 +1,24 @@
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1" />
+
+{% if page.section == 'home' %}
+<title>{{ site.title }}</title>
+{% elsif page.title %}
+<title>{{ page.title }} - {{ site.title }}</title>
+{% endif %}
+
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+
+<link rel="stylesheet" href="/assets/css/index.css">
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC:700" rel="stylesheet">
+
+
+<link rel="shortcut icon" href="/assets/meta/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/meta/apple-touch-icon-precomposed-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/meta/apple-touch-icon-precomposed-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/meta/apple-touch-icon-precomposed-152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/meta/apple-touch-icon-precomposed-180x180.png">
+
+<meta property="og:image" content="{{ site.url }}/assets/meta/meta-icon-1000x1000.jpg">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:url" content="{{ site.url }}">
