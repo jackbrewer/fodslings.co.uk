@@ -51,11 +51,13 @@
 
   li {
     list-style-position: outside;
-    padding-left: spacing(4);
+    margin-left: spacing(4);
   }
 
   ul {
     li {
+      padding-left: spacing(4);
+      margin-left: 0;
       list-style-type: none;
       background-repeat: no-repeat;
       background-position: 8px 8px;
