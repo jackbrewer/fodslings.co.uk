@@ -52,7 +52,7 @@
   display: inline-block;
   transform: translateY(16px);
   max-width: spacing(16);
-  margin-top: spacing(-4);
+  margin-top: spacing(-2);
 
   @media screen and (min-width: $breakpoint-tablet) {
     transform: translateY(32px);

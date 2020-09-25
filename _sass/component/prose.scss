@@ -9,8 +9,7 @@
   h4,
   h5,
   h6 {
-    font-family: $font-heading;
-    font-weight: 400;
+    //
   }
 
   > {
@@ -24,18 +23,25 @@
   }
 
   h1 {
-    font-size: spacing(4); // 24
-    line-height: spacing(6); // 32
+    font-size: spacing(4);
+    line-height: spacing(6);
+    font-family: $font-heading;
+    font-weight: 400;
   }
 
   h2 {
-    font-size: spacing(3); // 24
-    line-height: spacing(4); // 32
+    font-size: spacing(5);
+    line-height: spacing(6);
+    font-family: $font-heading;
+    font-weight: 400;
+    font-weight: bold;
+    color: $color-primary;
   }
 
   h3 {
     font-size: spacing(2.5); // 20
     line-height: spacing(4); // 28
+    color: $color-primary;
   }
 
   h4,
@@ -87,16 +93,39 @@
     }
   }
 
+  // a {
+  //   color: $color-primary;
+  //   text-decoration: underline;
+  //   transition: color $duration-standard $easing-standard;
+
+  //   &:hover,
+  //   &:focus,
+  //   &:active {
+  //     color: $color-primary-dark;
+  //     transition-duration: $duration-shortest;
+  //   }
+  // }
+
   a {
+    text-decoration: none;
+    text-shadow: -1px -1px 0 $color-common-white, 1px -1px 0 $color-common-white,
+      -1px 1px 0 $color-common-white, 1px 1px 0 $color-common-white;
     color: $color-primary;
-    text-decoration: underline;
-    transition: color $duration-standard $easing-standard;
+    display: inline;
+    transition: background-size $duration-standard $easing-standard;
+    background-position: 100% 100%, 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0 2px, 100% 2px;
+    background-image: linear-gradient(to right, $color-primary, $color-primary),
+      linear-gradient(to right, $color-common-grey75, $color-common-grey75);
 
     &:hover,
-    &:focus,
-    &:active {
-      color: $color-primary-dark;
-      transition-duration: $duration-shortest;
+    &:active,
+    &:focus {
+      outline: 0;
+      text-decoration: none;
+      background-size: 100% 2px, 100% 2px;
+      background-position: 0 100%, 0 100%;
     }
   }
 

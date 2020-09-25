@@ -1,9 +1,20 @@
 .container {
   max-width: spacing(150);
   margin: 0 auto;
+  clear: both;
+  padding-bottom: 1px;
 
   padding-left: spacing(2);
   padding-right: spacing(2);
+
+  & + & {
+    margin-top: spacing(5);
+    padding-top: 1px;
+  }
+}
+
+.container--medium {
+  max-width: spacing(120);
 }
 
 .container--narrow {

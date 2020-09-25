@@ -18,3 +18,86 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.image-right {
+  margin-bottom: spacing(2);
+  text-align: center;
+
+  @media screen and (min-width: $breakpoint-tablet) {
+    margin-left: spacing(6);
+    float: right;
+    max-width: 300px;
+  }
+}
+
+.image-right--hidden-mobile {
+  @media screen and (max-width: $breakpoint-tablet - 1) {
+    display: none;
+  }
+}
+
+.image-double {
+  padding-top: spacing(1);
+  padding-bottom: spacing(1);
+  text-align: center;
+
+  > * {
+    max-width: 70%;
+  }
+
+  > * + * {
+    margin-top: spacing(2);
+  }
+
+  @media screen and (min-width: $breakpoint-tablet) {
+    display: flex;
+    padding-top: spacing(4);
+    padding-bottom: spacing(4);
+
+    > * {
+      margin-left: spacing(2);
+      margin-right: spacing(2);
+      margin-top: 0;
+    }
+  }
+
+  @media screen and (min-width: $breakpoint-desktop) {
+    margin-left: spacing(-10);
+    margin-right: spacing(-10);
+  }
+}
+
+.image-wrap {
+  position: relative;
+  transform: rotate(2deg);
+  display: inline-block;
+
+  &:before,
+  &:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+
+  &:before {
+    background-color: rgba($color-secondary, 0.8);
+    transform: rotate(2deg);
+  }
+
+  &:after {
+    background-color: rgba($color-secondary, 0.5);
+    transform: rotate(-1deg);
+  }
+
+  img {
+    position: relative;
+    z-index: 1;
+  }
+
+  & + & {
+    transform: rotate(-1deg);
+  }
+}
