@@ -36,7 +36,7 @@ permalink: /services/
 
   <p>Fit checks are available online or at pre-booked sling library sessions. These last approximately 15 minutes and are suitable for one or two carriers, with your baby in a parent-facing front carry. If you want help fitting multiple carriers or to try different carrying positions I recommend booking a private consultation.</p>
 
-  <p>Fit checks are FREE with doorstep hires, or £3 for your own carrier. Please <a href="/contact">get in touch</a> to arrange yours!</p>
+  <p>Fit checks are FREE with doorstep hires, or £5 for your own carrier. Please <a href="/contact">get in touch</a> to arrange yours!</p>
 
   <h2>Consultations</h2>
 
