@@ -1,5 +1,5 @@
 .main-nav {
-  background-color: $color-common-grey05;
+  background-color: $color-grey05;
   padding: spacing(0.5) 0 0;
 }
 
@@ -15,7 +15,7 @@
 .main-nav__link {
   display: block;
   padding: spacing(1) spacing(1.5);
-  color: $color-common-white;
+  color: $color-white;
   text-decoration: none;
   border-radius: $radius-standard;
   transition: background-color $duration-standard $easing-standard;

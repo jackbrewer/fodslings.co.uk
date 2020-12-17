@@ -3,14 +3,14 @@
     margin-top: spacing(2);
   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    //
-  }
+  // h1,
+  // h2,
+  // h3,
+  // h4,
+  // h5,
+  // h6 {
+  //   //
+  // }
 
   > {
     h2,
@@ -34,7 +34,6 @@
     line-height: spacing(6);
     font-family: $font-heading;
     font-weight: 400;
-    font-weight: bold;
     color: $color-primary;
   }
 
@@ -108,8 +107,8 @@
 
   a {
     text-decoration: none;
-    text-shadow: -1px -1px 0 $color-common-white, 1px -1px 0 $color-common-white,
-      -1px 1px 0 $color-common-white, 1px 1px 0 $color-common-white;
+    text-shadow: -1px -1px 0 $color-white, 1px -1px 0 $color-white,
+      -1px 1px 0 $color-white, 1px 1px 0 $color-white;
     color: $color-primary;
     display: inline;
     transition: background-size $duration-standard $easing-standard;
@@ -117,7 +116,7 @@
     background-repeat: no-repeat;
     background-size: 0 2px, 100% 2px;
     background-image: linear-gradient(to right, $color-primary, $color-primary),
-      linear-gradient(to right, $color-common-grey75, $color-common-grey75);
+      linear-gradient(to right, $color-grey75, $color-grey75);
 
     &:hover,
     &:active,
@@ -135,6 +134,32 @@
     border: 0;
     border-bottom: 1px solid currentColor;
     margin-bottom: -1px;
+  }
+
+  blockquote {
+    color: $color-grey25;
+    font-size: spacing(2.5);
+    line-height: spacing(3.5);
+    font-style: italic;
+    padding-left: spacing(3);
+    padding-right: spacing(3);
+    text-indent: -1.5ch;
+
+    &::before,
+    &::after {
+      color: $color-primary;
+      font-size: 2em;
+      line-height: spacing(3.5);
+      vertical-align: bottom;
+    }
+
+    &::before {
+      content: open-quote;
+    }
+
+    &::after {
+      content: close-quote;
+    }
   }
 
   // Last in the group for specificity reasons

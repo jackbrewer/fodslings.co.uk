@@ -3,6 +3,7 @@ title: Welcome
 layout: default
 hero: true
 section: home
+notification: true
 # description: test
 ---
 
@@ -18,7 +19,7 @@ section: home
 
   <p>My name is Nelly, I’m a trained and insured babywearing specialist and I’m here to help families throughout the Forest of Dean area to carry their babies and children comfortably and safely.</p>
 
-  <p>My <a href="/services">services</a> include face to face consultations, video fittings and carrier hire, including FREE stretchy wrap and close caboo carrier hire for babies under 8 weeks old.</p>
+  <p>My <a href="/services">services</a> include sling library sessions, face to face consultations, video fittings and carrier hire, including FREE stretchy wrap and close caboo carrier hire for babies under 8 weeks old.</p>
 
   <p>Please <a href="/contact">get in touch</a> or visit my <a href="https://www.facebook.com/fodslings/">Facebook page</a> for more information.</p>
 

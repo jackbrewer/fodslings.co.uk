@@ -2,7 +2,7 @@
   flex-grow: 1;
   border-top: 4px solid $color-primary-dark;
   position: relative;
-  background-color: $color-common-white;
+  background-color: $color-white;
   padding: spacing(6) 0 spacing(10);
 
   @media screen and (min-width: $breakpoint-tablet) {

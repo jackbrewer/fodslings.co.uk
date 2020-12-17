@@ -9,6 +9,10 @@
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-size: spacing(2);
   line-height: (3 / 2);

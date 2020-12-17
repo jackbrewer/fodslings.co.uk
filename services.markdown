@@ -4,8 +4,21 @@ title: Services
 permalink: /services/
 ---
 
+<div class="container container--medium">
+  <div class="subnav">
+    <div>Jump to:</div>
+    <ul>
+      <li><a href="#carrier-hire">Carrier Hire</a></li>
+      <li><a href="#sling-library-sessions">Sling Library Sessions</a></li>
+      <li><a href="#video-fit-checks">Video Fit Checks</a></li>
+      <li><a href="#consultations">Consultations</a></li>
+    </ul>
+  </div>
+</div>
+
 <div class="container container--narrow prose">
-  <h2>Carrier Hire</h2>
+
+  <h2 id="carrier-hire">Carrier Hire</h2>
 
   <p>I have a wide range of carrier styles and brands available for hire, suitable for newborns right up to toddlerhood and beyond.</p>
 
@@ -28,17 +41,23 @@ permalink: /services/
 
   <p>You can then browse and reserve a carrier from my <a href="/carriers">selection of available carriers</a>. If you’re not sure what sort of carrier would fit your needs please drop me an email or facebook PM to talk it through.</p>
 
-  <p>You can collect and return your carrier via the dropbox outside my house in Pillowell, or from a pre-booked sling library session.</p>
+  <p>You can collect and return your carrier from a pre-booked <a href="/blog/">sling library session</a> or via the dropbox outside my house in Pillowell.</p>
 
   <p>All doorstep hires include a free 15 minute video fit check.</p>
 
-  <h2>Fit Checks</h2>
+  <h2 id="sling-library-sessions">Sling Library Sessions</h2>
 
-  <p>Fit checks are available online or at pre-booked sling library sessions. These last approximately 15 minutes and are suitable for one or two carriers, with your baby in a parent-facing front carry. If you want help fitting multiple carriers or to try different carrying positions I recommend booking a private consultation.</p>
+  <p><a href="/blog/">Sling library sessions</a> run on the first Thursday of the month at Lydney Community centre. They are generally run as two back to back ‘baby group’ style sessions, with one session for newborns and one for older babies. However, this is subject to changing government guidance and coronavirus infection levels, and they may sometimes be run as back to back 10 minute fitting slots for single households.</p>
 
-  <p>Fit checks are FREE with doorstep hires, or £3 for your own carrier. Please <a href="/contact">get in touch</a> to arrange yours!</p>
+  <p>There is a £5 session fee per family, which applies if you want help with your own carrier, to hire a FREE newborn carrier or to try carriers without hiring. If you are paying to hire a carrier then the session fee is included in the hire cost. Pre-booking is essential - <a href="https://forms.gle/hUBVo2JMPK7BAYqM7">please fill out this form to reserve your space</a>!
 
-  <h2>Consultations</h2>
+  <p>There is no need to book if you are returning a hire carrier but not stopping for the session.</p>
+
+  <h2 id="video-fit-checks">Video Fit Checks</h2>
+
+  <p>Online video fit checks are available FREE OF CHARGE for all doorstep hires, and cost £5 for your own carrier. These last approximately 15 minutes and are suitable for one or two carriers, with your baby in a parent-facing front carry. If you want help fitting multiple carriers or to try different carrying positions I recommend booking a private consultation.</p>
+
+  <h2 id="consultations">Consultations</h2>
 
   <p>I am now offering Covid-secure, socially distanced consultations from the comfort of a cosy cabin in my garden in Pillowell, allowing you and your little one(s) the time and space to explore various carrying options.</p>
 

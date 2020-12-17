@@ -8,6 +8,7 @@
     {% include header.html hero=page.hero %}
     <main class="main-content">
       <div class="main-content__inner">
+        {% include notification.html notification=page.notification hero=page.hero %}
         <div class="container container--narrow">
           <h1 class="heading heading--primary">{{ page.title }}</h1>
         </div>

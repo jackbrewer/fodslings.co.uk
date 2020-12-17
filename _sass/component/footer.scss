@@ -1,8 +1,8 @@
 .footer {
   position: relative;
   z-index: 1;
-  background-color: $color-common-grey05;
-  color: $color-common-white;
+  background-color: $color-grey05;
+  color: $color-white;
   font-size: spacing(1.5);
   padding: spacing(1) 0;
 
@@ -33,11 +33,11 @@
 
 .footer__link {
   display: block;
-  color: $color-common-grey75;
+  color: $color-grey75;
   padding: spacing(1);
 }
 
 .footer__terms {
   text-align: right;
-  color: $color-common-grey75;
+  color: $color-grey75;
 }

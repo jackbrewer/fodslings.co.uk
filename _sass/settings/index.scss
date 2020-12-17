@@ -5,3 +5,8 @@
 @import './font';
 @import './radius';
 @import './spacing';
+
+@mixin font-smoothing () {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

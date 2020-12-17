@@ -23,7 +23,7 @@
   &::after {
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 35%);
     height: spacing(1);
-    background-color: $color-common-grey05;
+    background-color: $color-grey05;
   }
 }
 
@@ -33,7 +33,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: $color-common-grey25;
+  background-color: $color-grey25;
   background-image: url('/assets/image/header.jpg');
   background-size: cover;
   background-position: 50% 50%;
