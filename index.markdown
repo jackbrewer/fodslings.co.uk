@@ -3,7 +3,7 @@ title: Welcome
 layout: default
 hero: true
 section: home
-notification: true
+notification: false
 # description: test
 ---
 
