@@ -1,0 +1,9 @@
+// .blog-summary-list {}
+
+.blog-summary {
+  list-style: none;
+
+  & + & {
+    margin-top: spacing(6);
+  }
+}

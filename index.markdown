@@ -38,6 +38,6 @@ notification: false
   <p>Again, please know that you are welcome here. Whether this is your first baby or your 5th, whether you’re a birth parent, biological parent, adoptive parent, fosterer, or carer. Whatever milk you feed your baby and however it’s delivered. I want you to feel comfortable and to know that this is a safe space, and that the information I provide is evidence based and judgement-free.</p>
 
   <h2>Accessibility</h2>
-  <p>Unfortunately my garden consultancy space is not accessible by wheelchair, or buggy. If you have mobility issues or other accessibility needs please do get in touch as I may be able to visit you in your own home or in an accessible public space.</p>
+  <p>Both of my sling library session venues are wheelchair accessible. Unfortunately my garden consultancy space is not accessible by wheelchair, or buggy. If you have mobility issues or other accessibility needs and require a full length consultation please do get in touch as I may be able to visit you in your own home or in an accessible public space.</p>
 
 </div>
