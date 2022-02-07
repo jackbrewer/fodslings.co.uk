@@ -47,7 +47,7 @@ permalink: /services/
 
   <h2 id="sling-library-sessions">Sling Library Sessions</h2>
 
-  <p><a href="/blog/">Sling library sessions</a> run on the first Thursday of the month at Lydney Community centre and the third Thursday of the month at Forest Humbugs Baby Group, Forest Community Church, Cinderford. These are run as baby group style events with short individual or group fitting slots.</p>
+  <p><a href="/blog/">Sling library sessions</a> run on the first Thursday of the month at Lydney Community centre and the third Thursday of the month at Forest Humbugs Baby Group, Forest Community Church, Cinderford. These are run as baby group style events with short individual or group fitting slots of around 15 minutes each.</p>
 
   <p>Sling library sessions are perfect for:</p>
   <ul>
@@ -58,16 +58,16 @@ permalink: /services/
   </ul>
   <p>BOOKING IS ESSENTIAL, due to COVID-19 considerations and to help me know which carriers to bring on the day.</p>
 
-  <p><a href="https://forms.gle/6f9XduPZ2riDZx6U9">Book a slot at Lydney here</a></p>
+  <p><a href="https://app.acuityscheduling.com/schedule.php?owner=20371459&appointmentType=16173909">Book a slot at Lydney here</a></p>
 
-  <p><small>(£3 to attend the session, deducted from fitting and hire charges. Fittings cost £5 with your own carrier, £3 with free newborn hires and are included with paid hires)</small></p>
+  <p><small>£3 to attend the session, deducted from fitting and hire charges. Fittings cost £5 with your own carrier (or to try a library carrier without hiring), £3 with free newborn hires and are included with paid hires</small></p>
 
-  <p><a href="https://forms.gle/RRqpY2U1W757JQUYA">Book a slot at Cinderford here</a></p>
+  <p><a href="https://app.acuityscheduling.com/schedule.php?owner=20371459&appointmentType=29507488">Book a slot at Cinderford here</a></p>
 
   <div>
-  <p><small>Note that you also need to book a space at the main baby group separately.</small></p>
+  <p><small>Note that you may also need to book a space at the main baby group separately, depending on their current Covid protocols.</small></p>
 
-  <p><small>(Fittings cost £5 with your own carrier, £3 with free newborn hires and are included with paid hires)</small></p>
+  <p><small>Fittings cost £5 with your own carrier (or to try a library carrier without hiring), £3 with free newborn hires and are included with paid hires</small></p>
   </div>
 
   <p>If you would like help fitting multiple carriers or to try different carrying positions I recommend booking a private consultation</p>
@@ -91,6 +91,8 @@ permalink: /services/
     <li>You or your baby has a disability or medical condition that may affect babywearing</li>
     <li>You want to carry more than one child at once</li>
   </ul>
+
+  <p>You can <a href="https://app.acuityscheduling.com/schedule.php?owner=20371459&appointmentType=29510728">book a consultation here</a>. If you’d like to book a consultation outside my usual bookable hours, please email me to discuss availability.</p>
 
   <div class="image-double">
     <div class="image-wrap">

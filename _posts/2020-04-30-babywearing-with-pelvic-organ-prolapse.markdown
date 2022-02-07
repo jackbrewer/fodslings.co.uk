@@ -17,7 +17,7 @@ Some people with prolapse dislike buckle carriers with firm, structured waistban
 You may also find that hip or back carrying places less strain on your pelvic floor than front carrying, particularly when using a carefully tightened woven wrap. Most buckle carriers are suitable for back carrying from around 6 months. Woven wraps can be used for younger babies, but you may want to seek support from a trained carrying consultant before you do so.
 
 ## Take Care when Lifting
-Heavy lifting, pushing and pulling is not good for prolapse. Always engage your pelvic floor and breath out when lifting your baby (or anything else!). When moving your baby onto your back in a carrier, a hipscoot or seated lift may be a better option than the ‘superman toss’. Avoid carrying your baby in the car seat wherever possible. A carrier is a much better option for getting your baby to and from the car, and taking them round the supermarket, to baby groups or the health centre.
+Heavy lifting, pushing and pulling is not good for prolapse. Always engage your pelvic floor and breathe out when lifting your baby (or anything else!). When moving your baby onto your back in a carrier, a hipscoot or seated lift may be a better option than the ‘superman toss’. Avoid carrying your baby in the car seat wherever possible. A carrier is a much better option for getting your baby to and from the car, and taking them round the supermarket, to baby groups or the health centre.
 
 ## Focus on Posture
 Existing poor posture may be exacerbated by the extra load of a baby in a sling, putting extra strain on the back, core and pelvic floor muscles. Paying attention to your posture and taking steps to correct it can help with managing prolapse symptoms both with and without a baby in a carrier.
