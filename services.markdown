@@ -47,7 +47,7 @@ permalink: /services/
 
   <h2 id="sling-library-sessions">Sling Library Sessions</h2>
 
-  <p><a href="/blog/">Sling library sessions</a> run on the first Thursday of the month at Lydney Community centre and the third Thursday of the month at Forest Humbugs Baby Group, Forest Community Church, Cinderford. These are run as baby group style events with short individual or group fitting slots of around 15 minutes each.</p>
+  <p><a href="/blog/">Sling library sessions</a> run on the first Friday of the month at Lydney Community centre. These are run as baby group style events with short individual or group fitting slots of around 15 minutes each.</p>
 
   <p>Sling library sessions are perfect for:</p>
   <ul>
@@ -61,14 +61,6 @@ permalink: /services/
   <p><a href="https://app.acuityscheduling.com/schedule.php?owner=20371459&appointmentType=16173909">Book a slot at Lydney here</a></p>
 
   <p><small>£3 to attend the session, deducted from fitting and hire charges. Fittings cost £5 with your own carrier (or to try a library carrier without hiring), £3 with free newborn hires and are included with paid hires</small></p>
-
-  <p><a href="https://app.acuityscheduling.com/schedule.php?owner=20371459&appointmentType=29507488">Book a slot at Cinderford here</a></p>
-
-  <div>
-  <p><small>Note that you may also need to book a space at the main baby group separately, depending on their current Covid protocols.</small></p>
-
-  <p><small>Fittings cost £5 with your own carrier (or to try a library carrier without hiring), £3 with free newborn hires and are included with paid hires</small></p>
-  </div>
 
   <p>If you would like help fitting multiple carriers or to try different carrying positions I recommend booking a private consultation</p>
 
