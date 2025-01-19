@@ -58,7 +58,7 @@ permalink: /services/
   </ul>
   <p>Booking is recommended to help me know which carriers to bring on the day.</p>
 
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2paKbogzIePGzT1TAxJ_mUskEHonqjtMGepQ3qooCpqv1Og/viewform">Book a slot at Lydney here</a>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc2paKbogzIePGzT1TAxJ_mUskEHonqjtMGepQ3qooCpqv1Og/viewform">Book a slot at Lydney here</a></p>
 
   <p><small>£3 to attend the session, deducted from fitting and hire charges. Fittings cost £5 with your own carrier (or to try a library carrier without hiring), £3 with free newborn hires and are included with paid hires</small></p>
   
@@ -70,19 +70,7 @@ permalink: /services/
 
   <h2 id="consultations">Consultations</h2>
 
-  <p>I am now offering Covid-secure, socially distanced consultations from the comfort of a cosy cabin in my garden in Pillowell, allowing you and your little one(s) the time and space to explore various carrying options.</p>
-
-  <p>Consultations are available to book most weekends, and cost £30 for up to 90 minutes. A consultation is a great option for the following scenarios:</p>
-
-  <ul>
-    <li>You want to try out several types of carrier</li>
-    <li>You want to learn to back carry</li>
-    <li>You want to learn to feed in a carrier</li>
-    <li>You or your baby has a disability or medical condition that may affect babywearing</li>
-    <li>You want to carry more than one child at once</li>
-  </ul>
-
-  <p>You can <a href="https://app.acuityscheduling.com/schedule.php?owner=20371459&appointmentType=29510728">book a consultation here</a>. If you’d like to book a consultation outside my usual bookable hours, please email me to discuss availability.</p>
+  <p>I have very limited availability for private consultations, but may be able to offer these in particular circumstances where I can't provide sufficient support in a group setting, such as for babies or carers with additional needs or medical conditions. These can be held in my cosy garden cabin, or I can come to you. If you’d like to book a consultation please email me to discuss availability.</p>
 
   <div class="image-double">
     <div class="image-wrap">
@@ -93,6 +81,6 @@ permalink: /services/
     </div>
   </div>
 
-  <p>Please note that unfortunately my garden space is not suitable for wheelchairs or buggies, and that there are several steps up to the cabin. If you have mobility issues or other accessibility needs please do get in touch as I may be able to visit you in your own home or in an accessible public space.</p>
+  <p>Please note that unfortunately my home consultation space is not suitable for wheelchairs or buggies, and that there are several steps up to the cabin. If you have mobility issues or other accessibility needs please do get in touch as I may be able to visit you in your own home or in an accessible public space.</p>
 
 </div>
