@@ -7,15 +7,6 @@ layout: default
 ---
 
 <div class="container container--narrow prose">
-  <h2>Covid-19 Restrictions:</h2>
-  <p>Due to the current Covid-19 restrictions I am not currently holding multi-household drop-in sessions. Hire carriers are available via non-contact doorstep collection from Pillowell, or during pre-booked library sessions or garden/studio consultations.</p>
-  <h2>Doorstep hires:</h2>
-  <p>All carriers will be laundered or stored for at least 48 hours between hires, and the drop-box sanitised between hires. However, for your own peace of mind and protection I suggest that you wait 24 hours between collection and first use of the carrier.</p>
-  <h2>Sling Library sessions:</h2>
-  <p>Sling library sessions will operate with pre-booked 10 minute fitting slots. Families will be able to try a maximum of 2 carriers per slot.</p>
-  <p>Only one family per sling library session will be able to try each carrier. All unhired carriers will be quarantined for at least 48 hours or laundered.</p>
-  <p>Please adhere to government guidance regarding Covid-19 prevention where possible, and do not attend a session if you have any Covid-19 symptoms. Should you develop symptoms during the 14 days visiting your visit please inform me immediately.</p>
-
   <h2>Forest of Dean Slings: Hire Agreement</h2>
   <ol>
     <li>I will use the personal information that you provide in accordance with GDPR.</li>
