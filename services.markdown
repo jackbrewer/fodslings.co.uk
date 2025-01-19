@@ -56,19 +56,17 @@ permalink: /services/
     <li>Trying out one or two hire carriers in an upright front or hip carry position</li>
     <li>Learning to carry a newborn in a stretchy wrap in an upright front carry position</li>
   </ul>
-  <p>BOOKING IS ESSENTIAL, due to COVID-19 considerations and to help me know which carriers to bring on the day.</p>
+  <p>Booking is recommended to help me know which carriers to bring on the day.</p>
 
-  <p><a href="https://app.acuityscheduling.com/schedule.php?owner=20371459&appointmentType=16173909">Book a slot at Lydney here</a></p>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2paKbogzIePGzT1TAxJ_mUskEHonqjtMGepQ3qooCpqv1Og/viewform">Book a slot at Lydney here</a>
 
   <p><small>£3 to attend the session, deducted from fitting and hire charges. Fittings cost £5 with your own carrier (or to try a library carrier without hiring), £3 with free newborn hires and are included with paid hires</small></p>
-
-  <p>If you would like help fitting multiple carriers or to try different carrying positions I recommend booking a private consultation</p>
-
+  
   <p>There is no need to book if you are returning a hire carrier but not stopping for the session.</p>
 
   <h2 id="video-fit-checks">Video Fit Checks</h2>
 
-  <p>Online video fit checks are available FREE OF CHARGE for all doorstep hires, and cost £5 for your own carrier. These last approximately 15 minutes and are suitable for one or two carriers, with your baby in an upright parent-facing front carry. If you want help fitting multiple carriers or to try different carrying positions I recommend booking a private consultation.</p>
+  <p>Online video fit checks are available FREE OF CHARGE for all doorstep hires, and cost £5 for your own carrier. These last approximately 15 minutes and are suitable for one or two carriers, with your baby in an upright parent-facing front carry.</p>
 
   <h2 id="consultations">Consultations</h2>
 
