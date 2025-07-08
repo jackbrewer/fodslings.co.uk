@@ -66,7 +66,7 @@ permalink: /services/
 
   <h2 id="video-fit-checks">Video Fit Checks</h2>
 
-  <p>Online video fit checks are available FREE OF CHARGE for all doorstep hires, and cost £5 for your own carrier. These last approximately 15 minutes and are suitable for one or two carriers, with your baby in an upright parent-facing front carry.</p>
+  <p>Online video fit checks are available free of charge for all doorstep hires. These last up to 15 minutes and are suitable for one carrier, with your baby in an upright parent-facing front carry.</p>
 
   <h2 id="consultations">Consultations</h2>
 
